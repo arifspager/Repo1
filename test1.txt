@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is EC3A-46E9
-
- Directory of C:\Users\Arif\Desktop\My Git Project
-
-02/24/2021  11:03 PM    <DIR>          .
-02/24/2021  11:03 PM    <DIR>          ..
-02/24/2021  11:03 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  113,806,512,128 bytes free
+Change 1
